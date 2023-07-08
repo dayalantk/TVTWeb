@@ -1,7 +1,7 @@
 # TVTWeb
 Open TVT->src/main/java and TVT.TVT package
-Excecute Title.java for performing operations in web.tvt-test.com/ site
-Operations and pages navigated are listed below
+.Excecute Title.java for performing operations in web.tvt-test.com/ site
+.Operations and pages navigated are listed below
 Navigate to "https://web.tvt-test.com/ 
 Login -> provide username and press continue and enter password click signin and press Yes
 Click on create Project
